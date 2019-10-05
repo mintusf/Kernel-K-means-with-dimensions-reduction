@@ -1,0 +1,2 @@
+# Kernel-K-means-with-dimensions-reduction
+The following program applied k-means algorithm for unsupervised learning  with sklearn circles dataset. To create a decision boundary in the case of non-linear dataset, Gaussian kernels are utilized. In order to decrease  computational heaviness, dimensions reduction using principal component analysis was applied. All functions, including model building and trainins, kernels calculation and dimensions reduction were written from scratch without using any built-in sklearn functions.
